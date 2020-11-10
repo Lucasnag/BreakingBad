@@ -1,0 +1,21 @@
+.frase{
+    padding: 3rem;
+    border-radius: .5rem;
+    background-color: #fff;
+    max-width: 800px;
+    margin-top: 20rem;
+    padding: 3rem;
+}
+.author{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.6rem;
+    text-align: right;
+    color: green;
+    font-weight: bold;
+} 
+.quote{
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}  
+
